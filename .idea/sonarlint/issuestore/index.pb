@@ -1,0 +1,7 @@
+
+e
+5requests_api_pytest/tests/test_data/user_details.json,5\8\583ab01010b868829d0abc007b634877a74b6997
+p
+@requests_api_pytest/common/api_response/desconstruct_response.py,3\c\3c2417b7b9c490f34c9d538b9c518ee142d3e94d
+p
+@requests_api_pytest/common/api_response/response_confirmation.py,4\b\4bb54899cff05be72ee9e994bc142dbe01177f29

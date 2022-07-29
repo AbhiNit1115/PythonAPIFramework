@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/requests_api_pytest/tests/CRUD_tests/test_crud_facade.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/duplicate_array.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/find_closest_list.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/find_missing_number.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/kth_largest_element.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/max_sum_of_k.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/number_occurance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/test.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/test11.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Array/test2.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/Reverse a String.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/strings/anagram.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/strings/convert_str1_to_str2.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/strings/first_repeated_char.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Programs/strings/lcs_palindrome.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/advancePython/Inheritance/MultipleInheritance.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/basicPython/List/Slicing/negative_slicing.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/design_patterns/Structural/facade_design_pattern/facade_pattern_selenium.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/ds_and_algo/algorithms/greedy_algo/coin_change.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/ds_and_algo/algorithms/recursion/recursion_fibonacci.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/ds_and_algo/algorithms/sorting/heap_sort.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/ds_and_algo/algorithms/sorting/insertion_sort.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/ds_and_algo/data_structures/non-linear-ds/tree/binary_search_tree/create_bst.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Python Projects/PythonSelfProject1/Python_Tutorials/ds_and_algo/data_structures/non-linear-ds/tree/binary_search_tree/insert_node.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
